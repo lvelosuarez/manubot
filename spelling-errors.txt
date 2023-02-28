@@ -1,9 +1,14 @@
+abscessus
+Actinobacteria
 adipiscing
 aliqua
 aliquip
 amet
 anim
 aute
+avium
+boletii
+chimaera
 cillum
 commodo
 consectetur
@@ -20,6 +25,7 @@ enim
 esse
 Excepteur
 exercitation
+fortuitum
 fugiat
 incididunt
 ipsum
@@ -31,10 +37,12 @@ laboris
 laborum
 Lorem
 magna
+massiliense
 microbiome
 mollit
 multidrug
 mycobacteria
+Mycobacterium
 nisi
 nontuberculous
 nostrud
@@ -49,6 +57,7 @@ proident
 PWCF
 qui
 quis
+radiological
 reprehenderit
 sed
 sint

@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-28" />
   <meta name="citation_publication_date" content="2023-02-28" />
   <meta property="article:published_time" content="2023-02-28" />
-  <meta name="dc.modified" content="2023-02-28T14:51:27+00:00" />
-  <meta property="article:modified_time" content="2023-02-28T14:51:27+00:00" />
+  <meta name="dc.modified" content="2023-02-28T14:56:29+00:00" />
+  <meta property="article:modified_time" content="2023-02-28T14:56:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://lvelosuarez.github.io/manubot/" />
   <meta name="citation_pdf_url" content="https://lvelosuarez.github.io/manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lvelosuarez.github.io/manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/manubot/v/1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108/" />
-  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/manubot/v/1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/manubot/v/1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/manubot/v/28cbe4e49e6e2666a01c28bf33b7fa65a071809b/" />
+  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/manubot/v/28cbe4e49e6e2666a01c28bf33b7fa65a071809b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/manubot/v/28cbe4e49e6e2666a01c28bf33b7fa65a071809b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lvelosuarez.github.io/manubot/v/1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108/))
+([permalink](https://lvelosuarez.github.io/manubot/v/28cbe4e49e6e2666a01c28bf33b7fa65a071809b/))
 was automatically generated
-from [lvelosuarez/manubot@1c3eb7f](https://github.com/lvelosuarez/manubot/tree/1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108)
+from [lvelosuarez/manubot@28cbe4e](https://github.com/lvelosuarez/manubot/tree/28cbe4e49e6e2666a01c28bf33b7fa65a071809b)
 on February 28, 2023.
 </em></small>
 
@@ -121,6 +121,10 @@ Jane Roe \<jane.roe@whatever.edu\>.
 ## Abstract {.page_break_before}
 
 As ubiquitous, naturally multidrug-resistant, nontuberculous mycobacteria (NTM) are a growing concern in cystic fibrosis (CF) due to their increasing prevalence in people with CF (PWCF). The pathophysiological process, colonization, and progression of NTM disease still need to be better understood. At the same time, in recent years, the lung microbiome has been shown to be a cornerstone of CF disease progression. This case-control study aims to investigate the lung microbiome associated with NTM infection in PWCF and to explore some potential dysbiosis that may set the stage for NTM colonization, development, and treatment response. We compared the microbiome composition of sputum samples from 36 NTM-positive CF patients and 72 CF NTM-negative controls (1 case versus 2 controls). Slight differences of ɑ-diversity were observed between cases and controls, but no clear stratification was noticed in analyzing β-diversity between NTM-positive and NTM-negative patients. Analyses have highlighted some bacterial taxa, mainly anaerobes, more abundant in NTM-positive patients. Co-occurrence network analysis has helped determine specific interactions of these taxa in specific bacterial communities within the pulmonary microbiome. This article highlights the complexity of polymicrobial interactions within the CF pulmonary microbiome and unveils the potential link between NTM and anaerobes, which should be investigated further
+
+
+## Introduction {.page_break_before}
+Nontuberculous mycobacteria (NTM) are ubiquitous environmental bacteria in part of the phylum Actinobacteria, usually found in soil, air, water, or animals [@doi:10.1038/s41579-020-0331-1]. However, in recent years, NTM has become a growing concern in patients with cystic fibrosis (PWCF), responsible for NTM pulmonary disease. Its diagnosis is based on clinical, radiological, and microbiological criteria [2]. NTM prevalence has been reported with a  wide variation (4 - 40 %), with a significant increase in PWCF in the last few years [3–5]. NTM occurrence has also been shown to vary with age, ranging from 19% for patients aged 12 to 17 years old to 29% for patients older than 60 in a cohort of PWCF from the United States monitored between 2010 and 2014 [6]. The prevalence of NTM also varies according to geographic region and environmental conditions [5]. The causes involved in NTM increase over the last years are widely discussed and probably associated with a myriad of factors:  (1) the strengthening of NTM virulence, (2) an alteration of host-pathogen interactions, (3) an enhancement of the monitoring of NTM disease, (4) an improvement of the diagnostic procedures and (5) the aging of the CF population [7,8]. The most commonly isolated NTM species in the United States and Europe belong to the Mycobacterium avium complex (M. avium, Mycobacterium fortuitum, and Mycobacterium chimaera) and the Mycobacterium abscessus complex (M. abscessus subspecies abscessus, M. abscessus subspecies boletii, and M. abscessus subspecies massiliense) [9].
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
