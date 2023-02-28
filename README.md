@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lvelosuarez/manubot/tree/gh-pages) branch hosts the contents of this directory at <https://lvelosuarez.github.io/manubot/>.
-The permalink for this webpage version is <https://lvelosuarez.github.io/manubot/v/1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108/>.
+The permalink for this webpage version is <https://lvelosuarez.github.io/manubot/v/28cbe4e49e6e2666a01c28bf33b7fa65a071809b/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lvelosuarez.github.io/manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108`](https://github.com/lvelosuarez/manubot/commit/1c3eb7f7e155c94887fbdf7e1e3f60bcb715f108).
+[`28cbe4e49e6e2666a01c28bf33b7fa65a071809b`](https://github.com/lvelosuarez/manubot/commit/28cbe4e49e6e2666a01c28bf33b7fa65a071809b).
